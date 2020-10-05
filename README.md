@@ -1,4 +1,4 @@
-# **Gerador de Relatórios**
+# **Pong**
 Exercício-Programa em Java desenvolvido para a disciplina **ACH 2003 - Computação Orientada a Objetos**, tendo como objetivo desenvolver noções de orientação de objetos a partir da finalização do clássico jogo **Pong**.
 
 ### **Construção**
